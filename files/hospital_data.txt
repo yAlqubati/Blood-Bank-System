@@ -1,0 +1,9 @@
+
+There is 0.0 in the A store, 
+There is 0.0 in the B store, 
+There is 16.0 in the AB store, 
+There is 0.0 in the O store, 
+There is 0.0 in the A- store, 
+There is 0.0 in the B- store, 
+There is 0.0 in the AB- store, 
+There is 0.0 in the O- store, 
